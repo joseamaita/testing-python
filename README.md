@@ -1,2 +1,1 @@
-# testing-python
-Guide for testing with Python
+# Guide for Testing with Python
